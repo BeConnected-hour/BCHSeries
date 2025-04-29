@@ -1,2 +1,2 @@
 # BCHSeries
-BeConnected hour - Season 05
+BeConnected hour - In ogni cartella della serie ci sono le slides di ogni puntata
